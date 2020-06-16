@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page11967114.html
+Disallow: /footer
+Disallow: /page11967181.html
+Disallow: /header
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+Sitemap: http://maste-r.tilda.ws/sitemap.xml
+Host: maste-r.tilda.ws
